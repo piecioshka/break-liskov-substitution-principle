@@ -7,7 +7,7 @@
 
 Example code which breaks Liskov substitution principle
 
-## Demo
+## Demo :tada:
 
 ```text
 
