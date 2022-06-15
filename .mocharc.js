@@ -1,5 +1,5 @@
 module.exports = {
-    require: 'chai',
-    ui: 'tdd',
-    reporter: 'spec',
+  require: "chai",
+  ui: "tdd",
+  reporter: "spec",
 };

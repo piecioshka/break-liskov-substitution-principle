@@ -1,9 +1,5 @@
 # break-liskov-substitution-principle
 
-[![travis-ci](https://api.travis-ci.com/piecioshka/break-liskov-substitution-principle.svg?branch=master)](https://app.travis-ci.com/github/piecioshka/break-liskov-substitution-principle)
-[![coveralls](https://coveralls.io/repos/github/piecioshka/break-liskov-substitution-principle/badge.svg?branch=master)](https://coveralls.io/github/piecioshka/break-liskov-substitution-principle?branch=master)
-[![snyk](https://snyk.io/test/github/piecioshka/break-liskov-substitution-principle/badge.svg?targetFile=package.json)](https://snyk.io/test/github/piecioshka/break-liskov-substitution-principle?targetFile=package.json)
-
 Example code which breaks Liskov substitution principle
 
 ## Demo :tada:
