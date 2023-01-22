@@ -2,7 +2,7 @@
 
 Example code which breaks Liskov substitution principle
 
-## Demo :tada:
+## Preview 🎉
 
 ```text
 
