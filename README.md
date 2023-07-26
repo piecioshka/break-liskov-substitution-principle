@@ -1,6 +1,6 @@
 # break-liskov-substitution-principle
 
-Example code which breaks Liskov substitution principle
+Code which breaks Liskov substitution principle
 
 ## Preview 🎉
 
